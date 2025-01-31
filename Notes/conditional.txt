@@ -10,6 +10,20 @@
  or " at least one condition must be true"
  not " Nither condition must be true"  
 
+ = " assignment operator"
++= " add and assign"
+-= " subtract and assign"
+*= " multiply and assign"
+/= " divide and assign"
+%= " modulus and assign"
+**= " exponent and assign"
+
+
+
+
+
+
+
 
 
 
