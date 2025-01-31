@@ -1,0 +1,17 @@
+#Conditional Statements
+
+ == " is equal to"
+ != " is not equal to"
+ > " is greater than"
+ < " is less than"
+ >= " is greater than or equal to"
+ <= " is less than or equal to" 
+ and " both conditions must be true"
+ or " at least one condition must be true"
+ not " reverses the condition"  
+
+
+
+
+
+
