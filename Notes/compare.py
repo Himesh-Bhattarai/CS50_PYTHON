@@ -1,10 +1,10 @@
-x = 10
-y = 20
+x = int(input("Enter a Number: "))
+y = int(input("Enter a Number: "))
 
-if x == y:
-    print("x is equal to y")
-elif x > y:
-    print("x is greater than y")
+if x > y:
+    print("X is grater than Y")
+elif x < y:
+    print("X is less that Y")
 else:
-    print("x is less than y")
+    print("X is equal to Y")
 
