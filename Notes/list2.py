@@ -1,0 +1,1 @@
+print("'pussy-cat'," * 3, end= "Fuck")
