@@ -1,15 +1,13 @@
+#Write a program to check user can vote or not.
 def main():
-        
-    user_age = int(input("Your age: "))
-    check_eligibility(user_age)
-
-def check_eligibility(age):
-    if age  >= 18:
-        print("eligibialty for vote")
-    elif age <= 0:
-        print("please inpute valid input")
+    user_age = int(input("Please!, Enter your age: "))
+    is_eligible_vote(user_age)
+    
+def is_eligible_vote(user_age):
+    if user_age <= 18:
+        print("You are not eligible for vote.")
     else:
-        print("Not eligible")      
-    return age  
+        print("you can vote.")
+
 
 main()
